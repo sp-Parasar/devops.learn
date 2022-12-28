@@ -1,0 +1,4 @@
+it commit -m "names.txt file added"
+Hello Guys
+learning git
+Its intersting to learn git
